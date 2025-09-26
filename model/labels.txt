@@ -1,0 +1,2 @@
+0 Recyclable
+1 Non-recyclable
